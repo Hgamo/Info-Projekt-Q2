@@ -3,7 +3,7 @@
 ## Spielsituation
 Die Situation auf dem Spielfeld kann der Wurzel des gezeichneten Teilbaums [gareth.drawio](gareth.drawio) entnommen werden.
 ### Weiter Angaben
-nextPlayer = NextPlayer.TWO;
+nextPlayer = NextPlayer.TWO;<br>
 wonPlayer = WonPlayer.NOONE
 
 ## Bewertung
